@@ -14,8 +14,14 @@ My work involves exploring vulnerabilities, building secure systems, and constan
 "The quieter you become, the more you can hack." — Anonymous
 
 <br>
- 
- 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -83,5 +89,3 @@ My work involves exploring vulnerabilities, building secure systems, and constan
 </div>
 
  
-
-# gokulur
