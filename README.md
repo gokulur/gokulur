@@ -88,4 +88,29 @@ My work involves exploring vulnerabilities, building secure systems, and constan
 
 </div>
 
+
+
+
+# Gokul UR 👨‍💻
+
+Cybersecurity Researcher & Software Developer from India 🇮🇳  
+
+## 🔐 Expertise
+- Web Application Security (VAPT, Ethical Hacking)
+- Cybersecurity Research
+- Secure System Development
+
+## 💻 Tech Stack
+- MERN Stack (MongoDB, Express, React, Node.js)
+- Python
+- Linux & Security Tools
+
+## 🚀 Projects
+- Optical Store App
+- Fragrance Store
+- Security Tools
+
+## 🌐 Portfolio
+https://gokulur.github.io
+
  
