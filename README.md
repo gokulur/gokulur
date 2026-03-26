@@ -61,12 +61,12 @@ My work involves exploring vulnerabilities, building secure systems, and constan
 
  ---
  
-**Github Stats:**
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gokulur&count_private=true&show_icons=true&theme=dracula&line_height=33" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulur&layout=compact&hide=scss,ejs&theme=dracula&line_height=10" />
-</p>
+</p> -->
 
 
  ---
